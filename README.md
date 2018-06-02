@@ -1,5 +1,5 @@
-#git_test
+# git_test
 git test
 
-##description
+## description
 gitのコマンドをいろいろテストします！！
