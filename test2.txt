@@ -1,2 +1,3 @@
-contents of test2
-modify!
+contents of the test2
+in the middle
+modify
